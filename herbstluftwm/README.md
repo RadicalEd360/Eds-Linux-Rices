@@ -1,3 +1,4 @@
-#Herbstluftwm
+# Herbstluftwm
+These are Rices for HerbstluftWM
 
-This is a Rice for use with Herbstluftwm and polybar
+to install, decompress and run install.sh
